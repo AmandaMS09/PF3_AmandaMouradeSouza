@@ -9,7 +9,7 @@ body { display: flex;
 }
 
 header { width: 100vw;
-    padding: 15px;
+    padding: 20px;
     height: fit-content;
 }
 

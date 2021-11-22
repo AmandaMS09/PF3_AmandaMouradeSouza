@@ -10,7 +10,7 @@ function calculo(){
 
     if (nome !="" && P !="" && i !="" && n !="")
     {
-        var result = `Olá, ${nome}! Ao aplicar um valor de R$ ${P} mensais em um intervalo de ${n} meses a uma taxa de ${i * 100}% ao mês, você acumulará uma poupança de ${vf}`;
+        var result = `Olá, ${nome}! Ao aplicar um valor de R$ ${P} mensais em um intervalo de ${n} meses a uma taxa de ${i * 100}% ao mês, você acumulará uma poupança de ${vf}!`;
       
     }else
     {
